@@ -15,7 +15,7 @@ Symantec Backup Exec MiTM Attack
    BID: 47824
 
    Symantec Disclosure link: http://www.symantec.com/business/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=2011&suid=20110526_00
-   iViZ Disclosure link: goo.gl/1vzdE
+   iViZ Disclosure link: http://goo.gl/1vzdE
 
 2. How to Use:
 	
